@@ -2,6 +2,7 @@
 This aims to provide insights into cricket statistics. Web scraping is used to extract cricket data from sources such as ESPN Cricinfo. Python will be employed for data manipulation &amp; analysis, and the Pandas library for processing the data. The final step is visualizing the analyzed data through Power BI.
 
 **DASHBOARD**
+
 ![1](https://github.com/ashmeek23/Cricket-statistics-dashboard/assets/141473881/3b533c7f-7b9f-46cf-8005-8bfc1b0a3205)
 
 ![2](https://github.com/ashmeek23/Cricket-statistics-dashboard/assets/141473881/3ec8ca9e-6286-4532-a1f9-0aef88c12de3)
