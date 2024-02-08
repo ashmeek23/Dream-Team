@@ -1,4 +1,4 @@
-# Cricket-statistics-dashboard
+# Dream Team
 This aims to provide insights into cricket statistics. Web scraping is used to extract cricket data from sources such as ESPN Cricinfo. Python will be employed for data manipulation &amp; analysis, and the Pandas library for processing the data. The final step is visualizing the analyzed data through Power BI.
 
 **DASHBOARD**
